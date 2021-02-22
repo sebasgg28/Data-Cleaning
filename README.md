@@ -1,7 +1,7 @@
 # Data-Cleaning
-Much of the Data Scientist job is to clean data, this project will utilize raw data from a website and will transform it into csv. This would be suitable for future work with it.
+Much of the Data Scientist's job is to clean data, this project will utilize raw data from a website and will transform it into CSV. This would be suitable for future work with it.
 
-In this project, the website tell us about patents. Using Pandas in Python we are able to retrieve all of the information,he information the will be needed is the following:
+In this project, the website tell us about patents. Using Pandas in Python we are able to retrieve all of the information, the information the will be needed is the following:
 <br><br>
 1)grant_id	<br>
 2)patent_title	<br>
